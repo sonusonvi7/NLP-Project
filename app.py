@@ -190,4 +190,5 @@ if st.session_state.roast_history:
 # 👣 Footer
 st.markdown("---")
 
-st.caption("Made with fire & love 🔥💖 by Srusti")
+st.caption("Made with fire ❤️‍🔥❤️‍🔥 by Sonvi")
+
